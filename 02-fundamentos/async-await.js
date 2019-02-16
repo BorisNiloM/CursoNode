@@ -38,7 +38,7 @@ let getNombre= ()=>{
     });
 }
 
-
+// await se usa siempre dentro de un async
 let saludo = async() => {
 
     let nombre = await getNombre();

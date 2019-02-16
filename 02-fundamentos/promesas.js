@@ -63,6 +63,8 @@ let getSalario = (empleado) =>{
 //     console.log(err);
 // });
 
+
+
 //====Promesas en Cadena
 //como getEmpleado devuelve otra funcion ( getSalario), que a su vez devuelve una promesa, se puede encadenar con .then . Los errores se encadenad con un .catch
 
