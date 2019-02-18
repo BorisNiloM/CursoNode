@@ -6,7 +6,7 @@ const opts = {
         demand:true,
         alias:'b'
       },
-      limite:{
+    limite:{
         alias:'l',
         default: 10
       }
